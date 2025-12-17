@@ -1,2 +1,1 @@
-git is software.we are learning git and github
-  changed file in branch
+This is main file
